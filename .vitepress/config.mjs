@@ -4,6 +4,8 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'Anime LLM Wiki',
   description: '二次元知识库 — 番剧、角色、概念深度分析',
+  base: '/llm-wiki/',
+  srcDir: 'docs',
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
