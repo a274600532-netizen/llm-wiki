@@ -2,74 +2,70 @@
 
 ## 实体
 
-- [sousou-no-frieren](/entities/sousou-no-frieren) — 《葬送的芙莉莲》作品实体，包含元数据、评分与剧情概要
-- [frieren](/entities/frieren-芙莉莲) — 芙莉莲，作品核心角色，精灵魔法使
-- [re-zero-4th-season](/entities/re-zero-4th-season) — 《Re:Zero》第四季作品实体，包含元数据、剧情概要
-- [subaru-natsuki](/entities/菜月昴-subaru-natsuki) — 菜月昴，《Re:Zero》系列主角
-- [rem](/entities/雷姆-rem) — 雷姆，《Re:Zero》系列重要角色
-- [sage-shaula](/entities/贤者莎缇拉-sage-shaula) — "贤者"莎缇拉，《Re:Zero》第四季关键人物
-- [pleiades-watchtower](/entities/贤者之塔-pleiades-watchtower) — 贤者之塔，《Re:Zero》第四季主要舞台
-- [fullmetal-alchemist-brotherhood](/entities/钢之炼金术师-fullmetal-alchemist) — 《钢之炼金术师 FULLMETAL ALCHEMIST》作品实体，包含元数据、评分与剧情概要
-- [edward-elric](/entities/爱德华艾尔利克) — 爱德华·艾尔利克，《钢之炼金术师》核心主角
-- [alphonse-elric](/entities/阿尔冯斯艾尔利克) — 阿尔冯斯·艾尔利克，《钢之炼金术师》核心主角
-- [steel-ball-run](/entities/steel-ball-run) — 《Steel Ball Run: JoJo no Kimyou na Bouken》作品实体，包含元数据、评分与剧情概要
-- [steins-gate](/entities/steins-gate) — 《Steins;Gate》作品实体，包含元数据、评分与剧情概要
-- [rintarou-okabe](/entities/rintarou-okabe) — 冈部伦太郎，《Steins;Gate》核心主角
-- [mayuri-shiina](/entities/mayuri-shiina) — 椎名真由理，《Steins;Gate》核心配角
-- [itaru-hashida](/entities/itaru-hashida) — 桥田至，《Steins;Gate》核心配角
-- [future-gadget-laboratory](/entities/future-gadget-laboratory) — 未来道具研究所，《Steins;Gate》核心组织设定
-- [chainsaw-man-reze-movie](/entities/chainsaw-man-reze-movie) — 《Chainsaw Man Movie: Reze-hen》作品实体，包含元数据、评分与剧情概要
-- [denji](/entities/denji) — Denji，《电锯人》系列核心主角
-- [makima](/entities/makima) — Makima，《电锯人》系列精英恶魔猎人
-- [reze](/entities/reze) — Reze，《电锯人 蕾塞篇》新引入的核心角色
-- [shingeki-no-kyojin](/entities/shingeki-no-kyojin) — 《Shingeki no Kyojin (Attack on Titan)》系列作品实体
-- [eren-yeager](/entities/eren-yeager-艾伦耶格尔) — 艾伦·耶格尔，《进击的巨人》系列核心主角
-- [survey-corps](/entities/survey-corps-调查兵团) — 调查兵团，《进击的巨人》系列军事组织
-- [wall-maria](/entities/wall-maria-玛利亚之墙) — 玛利亚之墙，《进击的巨人》系列关键地点
-- [shiganshina-district](/entities/shiganshina-district-希干希纳区) — 希干希纳区，《进击的巨人》系列关键地点
-- [armin-arlert](/entities/armin-arlert-阿明阿诺德) — 阿明·阿诺德，《进击的巨人》系列核心角色
-- [gintama](/entities/gintama-银魂) — 《Gintama°》（银魂°）作品实体，包含元数据、评分与剧情概要
-- [gintoki-sakata](/entities/坂田银时-gintoki-sakata) — 坂田银时，《银魂》系列核心主角
-- [shinpachi-shimura](/entities/志村新八-shinpachi-shimura) — 志村新八，《银魂》系列核心角色
-- [kagura](/entities/神乐-kagura) — 神乐，《银魂》系列核心角色
-- [yorozuya](/entities/万事屋-yorozuya) — 万事屋，《银魂》系列核心组织设定
-- [utsuro](/entities/虚-utsuro) — 虚，《银魂》系列核心反派
-- [tendoshuu](/entities/天道众-tendoshuu) — 天道众，《银魂》系列核心反派组织
-- [shinsengumi](/entities/真选组-shinsengumi) — 真选组，《银魂》系列重要组织
-- [hunter-x-hunter-2011](/entities/hunter-x-hunter-2011) — 《Hunter x Hunter (2011)》作品实体，包含元数据、评分与剧情概要
-- [gon-freecss](/entities/gon-freecss-小杰富力士) — Gon Freecss（小杰·富力士），《Hunter x Hunter》核心主角
-- [ging-freecss](/entities/ging-freecss-金富力士) — Ging Freecss（金·富力士），《Hunter x Hunter》核心角色，Gon 的父亲
+- [Armin Arlert (阿明·阿诺德)](/entities/armin-arlert-阿明阿诺德) (2026-07-10)
+- [Chainsaw Man Movie: Reze-hen](/entities/chainsaw-man-reze-movie) (2026-07-10)
+- [Denji](/entities/denji) (2026-07-10)
+- [Eren Yeager (艾伦·耶格尔)](/entities/eren-yeager-艾伦耶格尔) (2026-07-10)
+- [Frieren (芙莉莲)](/entities/frieren-芙莉莲) (2026-07-10)
+- [Future Gadget Laboratory](/entities/future-gadget-laboratory) (2026-07-10)
+- [Ging Freecss (金·富力士)](/entities/ging-freecss-金富力士) (2026-07-10)
+- [Gintama° (银魂°)](/entities/gintama-银魂) (2026-07-10)
+- [Gon Freecss (小杰·富力士)](/entities/gon-freecss-小杰富力士) (2026-07-10)
+- [Hunter x Hunter (2011)](/entities/hunter-x-hunter-2011) (2026-07-10)
+- [Itaru Hashida](/entities/itaru-hashida) (2026-07-10)
+- [Makima](/entities/makima) (2026-07-10)
+- [Mayuri Shiina](/entities/mayuri-shiina) (2026-07-10)
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/re-zero-4th-season) (2026-07-10)
+- [Reze](/entities/reze) (2026-07-10)
+- [Rintarou Okabe](/entities/rintarou-okabe) (2026-07-10)
+- [Shiganshina District (希干希纳区)](/entities/shiganshina-district-希干希纳区) (2026-07-10)
+- [Shingeki no Kyojin (Attack on Titan)](/entities/shingeki-no-kyojin) (2026-07-10)
+- [Sousou no Frieren (Frieren: Beyond Journey''s End)](/entities/sousou-no-frieren) (2026-07-10)
+- [Steel Ball Run: JoJo no Kimyou na Bouken](/entities/steel-ball-run) (2026-07-10)
+- [Steins;Gate](/entities/steins-gate) (2026-07-10)
+- [Survey Corps (调查兵团)](/entities/survey-corps-调查兵团) (2026-07-10)
+- [Wall Maria (玛利亚之墙)](/entities/wall-maria-玛利亚之墙) (2026-07-10)
+- [万事屋 (Yorozuya)](/entities/万事屋-yorozuya) (2026-07-10)
+- [坂田银时 (Gintoki Sakata)](/entities/坂田银时-gintoki-sakata) (2026-07-10)
+- [天道众 (Tendoshuu)](/entities/天道众-tendoshuu) (2026-07-10)
+- [志村新八 (Shinpachi Shimura)](/entities/志村新八-shinpachi-shimura) (2026-07-10)
+- [爱德华·艾尔利克](/entities/爱德华艾尔利克) (2026-07-10)
+- [真选组 (Shinsengumi)](/entities/真选组-shinsengumi) (2026-07-10)
+- [神乐 (Kagura)](/entities/神乐-kagura) (2026-07-10)
+- [菜月昴 (Subaru Natsuki)](/entities/菜月昴-subaru-natsuki) (2026-07-10)
+- [虚 (Utsuro)](/entities/虚-utsuro) (2026-07-10)
+- [贤者"莎缇拉 (Sage Shaula)](/entities/贤者莎缇拉-sage-shaula) (2026-07-10)
+- [贤者之塔 (Pleiades Watchtower)](/entities/贤者之塔-pleiades-watchtower) (2026-07-10)
+- [钢之炼金术师 FULLMETAL ALCHEMIST](/entities/钢之炼金术师-fullmetal-alchemist) (2026-07-10)
+- [阿尔冯斯·艾尔利克](/entities/阿尔冯斯艾尔利克) (2026-07-10)
+- [雷姆 (Rem)](/entities/雷姆-rem) (2026-07-10)
 
 ## 概念
 
-- [long-lived-time-perception](/concepts/长寿种的时间感知-long-lived-time-perception) — 长寿种的时间感知，探讨时间尺度差异带来的情感与认知鸿沟
-- [authority-of-gluttony](/concepts/暴食权能-authority-of-gluttony) — "暴食"权能，《Re:Zero》中的存在剥夺能力
-- [human-transmutation](/concepts/人体炼成) — 人体炼成，炼金术中的禁忌行为，《钢之炼金术师》核心触发事件
-- [equivalent-exchange](/concepts/等价交换) — 等价交换，炼金术基本原则，《钢之炼金术师》核心哲学框架
-- [steel-ball-run-race](/concepts/steel-ball-run-赛事) — Steel Ball Run 赛事，横跨美国旧西部的跨国越野赛，作品核心设定
-- [devil-hunter](/concepts/恶魔猎人-devil-hunter) — 恶魔猎人，《电锯人》系列核心职业设定
-- [wall-maria-retaking](/concepts/夺回玛利亚之墙) — 夺回玛利亚之墙，《进击的巨人》第三季 Part 2 核心剧情目标
-- [titan-absence](/concepts/巨人的缺席) — 巨人的缺席，《进击的巨人》第三季 Part 2 关键叙事转折点
-- [alternate-history-edo](/concepts/架空历史江户设定-alternate-history-edo) — 架空历史江户设定，《银魂》系列核心世界观
-- [altana](/concepts/阿尔塔纳-altana) — 阿尔塔纳，《银魂》世界观中的龙脉/能量流核心设定
-- [hunter-examination](/concepts/猎人考试-hunter-examination) — 猎人考试，《Hunter x Hunter》中的高风险选拔过程，成为猎人的必经之路
-- [hunter](/concepts/猎人-hunter) — 猎人，《Hunter x Hunter》世界观中的职业设定，从事危险任务的精英
+- [Steel Ball Run 赛事](/concepts/steel-ball-run-赛事) (2026-07-10)
+- [人体炼成](/concepts/人体炼成) (2026-07-10)
+- [冒险后的叙事 (Post-Adventure Narrative)](/concepts/冒险后的叙事-post-adventure-narrative) (2026-07-10)
+- [夺回玛利亚之墙](/concepts/夺回玛利亚之墙) (2026-07-10)
+- [巨人的缺席](/concepts/巨人的缺席) (2026-07-10)
+- [恶魔猎人 (Devil Hunter)](/concepts/恶魔猎人-devil-hunter) (2026-07-10)
+- [暴食"权能 (Authority of Gluttony)](/concepts/暴食权能-authority-of-gluttony) (2026-07-10)
+- [架空历史江户设定 (Alternate-history Edo)](/concepts/架空历史江户设定-alternate-history-edo) (2026-07-10)
+- [猎人 (Hunter)](/concepts/猎人-hunter) (2026-07-10)
+- [猎人考试 (Hunter Examination)](/concepts/猎人考试-hunter-examination) (2026-07-10)
+- [等价交换](/concepts/等价交换) (2026-07-10)
+- [长寿种的时间感知 (Long-Lived Time Perception)](/concepts/长寿种的时间感知-long-lived-time-perception) (2026-07-10)
+- [阿尔塔纳 (Altana)](/concepts/阿尔塔纳-altana) (2026-07-10)
 
 ## 数据源
 
-- [5-anime--5-52991--tdvct7](/sources/5-anime--5-52991--tdvct7) — Sousou no Frieren (Frieren: Beyond Journey's End) — MyAnimeList Entry
-- [5-anime--5-61316--b37doc](/sources/5-anime--5-61316--b37doc) — Re:Zero kara Hajimeru Isekai Seikatsu 4th Season — MyAnimeList Entry
-- [5-anime--4-5114--1c0yhqi](/sources/5-anime--4-5114--1c0yhqi) — Fullmetal Alchemist: Brotherhood — MyAnimeList Entry
-- [5-anime--5-61469--1wzzu89](/sources/5-anime--5-61469--1wzzu89) — Steel Ball Run: JoJo no Kimyou na Bouken — MyAnimeList Entry
-- [5-anime--4-9253--17gb8wm](/sources/5-anime--4-9253--17gb8wm) — Steins;Gate — MyAnimeList Entry
-- [5-anime--5-57555--1y8c62s](/sources/5-anime--5-57555--1y8c62s) — Chainsaw Man Movie: Reze-hen — MyAnimeList Entry
-- [5-anime--5-38524--hnv61b](/sources/5-anime--5-38524--hnv61b) — Shingeki no Kyojin Season 3 Part 2 — MyAnimeList Entry
-- [5-anime--5-28977--331hgy](/sources/5-anime--5-28977--331hgy) — Gintama° — MyAnimeList Entry
-- [5-anime--5-39486--1xtfkzd](/sources/5-anime--5-39486--1xtfkzd) — Gintama: The Very Final — MyAnimeList Entry
-- [5-anime--5-11061--el9cpu](/sources/5-anime--5-11061--el9cpu) — Hunter x Hunter (2011) — MyAnimeList Entry
+- [Chainsaw Man Movie: Reze-hen — MyAnimeList Entry](/sources/5-anime--5-57555--1y8c62s) (2026-07-10)
+- [Fullmetal Alchemist: Brotherhood — MyAnimeList Entry](/sources/5-anime--4-5114--1c0yhqi) (2026-07-10)
+- [Gintama: The Very Final — MyAnimeList Entry](/sources/5-anime--5-39486--1xtfkzd) (2026-07-10)
+- [Gintama° — MyAnimeList Entry](/sources/5-anime--5-28977--331hgy) (2026-07-10)
+- [Hunter x Hunter (2011) — MyAnimeList Entry](/sources/5-anime--5-11061--el9cpu) (2026-07-10)
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season — MyAnimeList Entry](/sources/5-anime--5-61316--b37doc) (2026-07-10)
+- [Shingeki no Kyojin Season 3 Part 2 — MyAnimeList Entry](/sources/5-anime--5-38524--hnv61b) (2026-07-10)
+- [Sousou no Frieren (Frieren: Beyond Journey''s End) — MyAnimeList Entry](/sources/5-anime--5-52991--tdvct7) (2026-07-10)
+- [Steel Ball Run: JoJo no Kimyou na Bouken — MyAnimeList Entry](/sources/5-anime--5-61469--1wzzu89) (2026-07-10)
+- [Steins;Gate — MyAnimeList Entry](/sources/5-anime--4-9253--17gb8wm) (2026-07-10)
 
-## 查询
-
-## 对比
-
-## 综述
