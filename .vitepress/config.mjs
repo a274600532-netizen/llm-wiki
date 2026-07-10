@@ -15,6 +15,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '实体', link: '/entities/' },
       { text: '概念', link: '/concepts/' },
+      { text: '数据源', link: '/sources/' },
     ],
 
     sidebar: {
