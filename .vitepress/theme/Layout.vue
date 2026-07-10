@@ -1,21 +1,31 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
+import { computed } from 'vue'
 
 const { frontmatter } = useData()
 const { Layout } = DefaultTheme
+
+function fmt(d) {
+  if (!d) return ''
+  return d.slice(0, 10)
+}
+
+const created = computed(() => fmt(frontmatter.value.created))
+const updated = computed(() => fmt(frontmatter.value.updated))
+const showUpdated = computed(() => updated.value && updated.value !== created.value)
 </script>
 
 <template>
   <Layout>
     <template #doc-before>
-      <div v-if="frontmatter.created" class="article-meta">
+      <div v-if="created" class="article-meta">
         <span class="meta-label">创建于</span>
-        <span class="meta-value">{{ frontmatter.created }}</span>
-        <template v-if="frontmatter.updated && frontmatter.updated !== frontmatter.created">
+        <span class="meta-value">{{ created }}</span>
+        <template v-if="showUpdated">
           <span class="meta-sep">|</span>
           <span class="meta-label">更新于</span>
-          <span class="meta-value">{{ frontmatter.updated }}</span>
+          <span class="meta-value">{{ updated }}</span>
         </template>
       </div>
     </template>
