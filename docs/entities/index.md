@@ -1,39 +1,39 @@
 # 实体
 
-- [Armin Arlert (阿明·阿诺德)](/entities/armin-arlert-阿明阿诺德) — 2026-07-10
-- [Chainsaw Man Movie: Reze-hen](/entities/chainsaw-man-reze-movie) — 2026-07-10
-- [Denji](/entities/denji) — 2026-07-10
-- [Eren Yeager (艾伦·耶格尔)](/entities/eren-yeager-艾伦耶格尔) — 2026-07-10
-- [Frieren (芙莉莲)](/entities/frieren-芙莉莲) — 2026-07-10
-- [Future Gadget Laboratory](/entities/future-gadget-laboratory) — 2026-07-10
-- [Ging Freecss (金·富力士)](/entities/ging-freecss-金富力士) — 2026-07-10
-- [Gintama° (银魂°)](/entities/gintama-银魂) — 2026-07-10
-- [Gon Freecss (小杰·富力士)](/entities/gon-freecss-小杰富力士) — 2026-07-10
-- [Hunter x Hunter (2011)](/entities/hunter-x-hunter-2011) — 2026-07-10
-- [Itaru Hashida](/entities/itaru-hashida) — 2026-07-10
-- [Makima](/entities/makima) — 2026-07-10
-- [Mayuri Shiina](/entities/mayuri-shiina) — 2026-07-10
-- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/re-zero-4th-season) — 2026-07-10
-- [Reze](/entities/reze) — 2026-07-10
-- [Rintarou Okabe](/entities/rintarou-okabe) — 2026-07-10
-- [Shiganshina District (希干希纳区)](/entities/shiganshina-district-希干希纳区) — 2026-07-10
-- [Shingeki no Kyojin (Attack on Titan)](/entities/shingeki-no-kyojin) — 2026-07-10
-- [Sousou no Frieren (Frieren: Beyond Journey''s End)](/entities/sousou-no-frieren) — 2026-07-10
-- [Steel Ball Run: JoJo no Kimyou na Bouken](/entities/steel-ball-run) — 2026-07-10
-- [Steins;Gate](/entities/steins-gate) — 2026-07-10
-- [Survey Corps (调查兵团)](/entities/survey-corps-调查兵团) — 2026-07-10
-- [Wall Maria (玛利亚之墙)](/entities/wall-maria-玛利亚之墙) — 2026-07-10
-- [万事屋 (Yorozuya)](/entities/万事屋-yorozuya) — 2026-07-10
-- [坂田银时 (Gintoki Sakata)](/entities/坂田银时-gintoki-sakata) — 2026-07-10
-- [天道众 (Tendoshuu)](/entities/天道众-tendoshuu) — 2026-07-10
-- [志村新八 (Shinpachi Shimura)](/entities/志村新八-shinpachi-shimura) — 2026-07-10
-- [爱德华·艾尔利克](/entities/爱德华艾尔利克) — 2026-07-10
-- [真选组 (Shinsengumi)](/entities/真选组-shinsengumi) — 2026-07-10
-- [神乐 (Kagura)](/entities/神乐-kagura) — 2026-07-10
-- [菜月昴 (Subaru Natsuki)](/entities/菜月昴-subaru-natsuki) — 2026-07-10
-- [虚 (Utsuro)](/entities/虚-utsuro) — 2026-07-10
-- [贤者"莎缇拉 (Sage Shaula)](/entities/贤者莎缇拉-sage-shaula) — 2026-07-10
-- [贤者之塔 (Pleiades Watchtower)](/entities/贤者之塔-pleiades-watchtower) — 2026-07-10
-- [钢之炼金术师 FULLMETAL ALCHEMIST](/entities/钢之炼金术师-fullmetal-alchemist) — 2026-07-10
-- [阿尔冯斯·艾尔利克](/entities/阿尔冯斯艾尔利克) — 2026-07-10
-- [雷姆 (Rem)](/entities/雷姆-rem) — 2026-07-10
+- [armin-arlert-阿明阿诺德](/entities/armin-arlert-阿明阿诺德) (2026-07-10)
+- [chainsaw-man-reze-movie](/entities/chainsaw-man-reze-movie) (2026-07-10)
+- [denji](/entities/denji) (2026-07-10)
+- [eren-yeager-艾伦耶格尔](/entities/eren-yeager-艾伦耶格尔) (2026-07-10)
+- [frieren-芙莉莲](/entities/frieren-芙莉莲) (2026-07-10)
+- [future-gadget-laboratory](/entities/future-gadget-laboratory) (2026-07-10)
+- [ging-freecss-金富力士](/entities/ging-freecss-金富力士) (2026-07-10)
+- [gintama-银魂](/entities/gintama-银魂) (2026-07-10)
+- [gon-freecss-小杰富力士](/entities/gon-freecss-小杰富力士) (2026-07-10)
+- [hunter-x-hunter-2011](/entities/hunter-x-hunter-2011) (2026-07-10)
+- [itaru-hashida](/entities/itaru-hashida) (2026-07-10)
+- [makima](/entities/makima) (2026-07-10)
+- [mayuri-shiina](/entities/mayuri-shiina) (2026-07-10)
+- [re-zero-4th-season](/entities/re-zero-4th-season) (2026-07-10)
+- [reze](/entities/reze) (2026-07-10)
+- [rintarou-okabe](/entities/rintarou-okabe) (2026-07-10)
+- [shiganshina-district-希干希纳区](/entities/shiganshina-district-希干希纳区) (2026-07-10)
+- [shingeki-no-kyojin](/entities/shingeki-no-kyojin) (2026-07-10)
+- [sousou-no-frieren](/entities/sousou-no-frieren) (2026-07-10)
+- [steel-ball-run](/entities/steel-ball-run) (2026-07-10)
+- [steins-gate](/entities/steins-gate) (2026-07-10)
+- [survey-corps-调查兵团](/entities/survey-corps-调查兵团) (2026-07-10)
+- [wall-maria-玛利亚之墙](/entities/wall-maria-玛利亚之墙) (2026-07-10)
+- [万事屋-yorozuya](/entities/万事屋-yorozuya) (2026-07-10)
+- [坂田银时-gintoki-sakata](/entities/坂田银时-gintoki-sakata) (2026-07-10)
+- [天道众-tendoshuu](/entities/天道众-tendoshuu) (2026-07-10)
+- [志村新八-shinpachi-shimura](/entities/志村新八-shinpachi-shimura) (2026-07-10)
+- [爱德华艾尔利克](/entities/爱德华艾尔利克) (2026-07-10)
+- [真选组-shinsengumi](/entities/真选组-shinsengumi) (2026-07-10)
+- [神乐-kagura](/entities/神乐-kagura) (2026-07-10)
+- [菜月昴-subaru-natsuki](/entities/菜月昴-subaru-natsuki) (2026-07-10)
+- [虚-utsuro](/entities/虚-utsuro) (2026-07-10)
+- [贤者之塔-pleiades-watchtower](/entities/贤者之塔-pleiades-watchtower) (2026-07-10)
+- [贤者莎缇拉-sage-shaula](/entities/贤者莎缇拉-sage-shaula) (2026-07-10)
+- [钢之炼金术师-fullmetal-alchemist](/entities/钢之炼金术师-fullmetal-alchemist) (2026-07-10)
+- [阿尔冯斯艾尔利克](/entities/阿尔冯斯艾尔利克) (2026-07-10)
+- [雷姆-rem](/entities/雷姆-rem) (2026-07-10)
