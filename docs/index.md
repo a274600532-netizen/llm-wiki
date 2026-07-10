@@ -1,6 +1,6 @@
-# Wiki Index
+# 首页
 
-## Entities
+## 实体
 
 - [sousou-no-frieren](/entities/sousou-no-frieren) — 《葬送的芙莉莲》作品实体，包含元数据、评分与剧情概要
 - [frieren](/entities/frieren-芙莉莲) — 芙莉莲，作品核心角色，精灵魔法使
@@ -40,10 +40,9 @@
 - [gon-freecss](/entities/gon-freecss-小杰富力士) — Gon Freecss（小杰·富力士），《Hunter x Hunter》核心主角
 - [ging-freecss](/entities/ging-freecss-金富力士) — Ging Freecss（金·富力士），《Hunter x Hunter》核心角色，Gon 的父亲
 
-## Concepts
+## 概念
 
 - [long-lived-time-perception](/concepts/长寿种的时间感知-long-lived-time-perception) — 长寿种的时间感知，探讨时间尺度差异带来的情感与认知鸿沟
-- [post-adventure-narrative](/concepts/冒险后的叙事-post-adventure-narrative) — 冒险后的叙事结构，以冒险结束为起点的叙事范式
 - [authority-of-gluttony](/concepts/暴食权能-authority-of-gluttony) — "暴食"权能，《Re:Zero》中的存在剥夺能力
 - [human-transmutation](/concepts/人体炼成) — 人体炼成，炼金术中的禁忌行为，《钢之炼金术师》核心触发事件
 - [equivalent-exchange](/concepts/等价交换) — 等价交换，炼金术基本原则，《钢之炼金术师》核心哲学框架
@@ -56,7 +55,7 @@
 - [hunter-examination](/concepts/猎人考试-hunter-examination) — 猎人考试，《Hunter x Hunter》中的高风险选拔过程，成为猎人的必经之路
 - [hunter](/concepts/猎人-hunter) — 猎人，《Hunter x Hunter》世界观中的职业设定，从事危险任务的精英
 
-## Sources
+## 数据源
 
 - [5-anime--5-52991--tdvct7](/sources/5-anime--5-52991--tdvct7) — Sousou no Frieren (Frieren: Beyond Journey's End) — MyAnimeList Entry
 - [5-anime--5-61316--b37doc](/sources/5-anime--5-61316--b37doc) — Re:Zero kara Hajimeru Isekai Seikatsu 4th Season — MyAnimeList Entry
@@ -69,8 +68,8 @@
 - [5-anime--5-39486--1xtfkzd](/sources/5-anime--5-39486--1xtfkzd) — Gintama: The Very Final — MyAnimeList Entry
 - [5-anime--5-11061--el9cpu](/sources/5-anime--5-11061--el9cpu) — Hunter x Hunter (2011) — MyAnimeList Entry
 
-## Queries
+## 查询
 
-## Comparisons
+## 对比
 
-## Synthesis
+## 综述
