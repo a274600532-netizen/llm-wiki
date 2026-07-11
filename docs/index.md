@@ -4,12 +4,17 @@
 
 - [BLACK TORCH](/entities/black-torch) (2026-07-11)
 - [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) (2026-07-11)
+- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) (2026-07-11)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) (2026-07-11)
+- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) (2026-07-11)
 - [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) (2026-07-11)
+- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) (2026-07-11)
 - [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) (2026-07-11)
 - [Yani Neko](/entities/yani-neko) (2026-07-11)
 - [Youjo Senki II](/entities/youjo-senki-ii) (2026-07-11)
 - ["贤者"莎缇拉 (Sage Shaula)](/entities/贤者莎缇拉-sage-shaula) (2026-07-10)
 - [Armin Arlert (阿明·阿诺德)](/entities/armin-arlert-阿明阿诺德) (2026-07-10)
+- [Chainsaw Man Movie: Reze-hen](/entities/chainsaw-man-reze-movie) (2026-07-10)
 - [Denji](/entities/denji) (2026-07-10)
 - [Eren Yeager (艾伦·耶格尔)](/entities/eren-yeager-艾伦耶格尔) (2026-07-10)
 - [Frieren (芙莉莲)](/entities/frieren-芙莉莲) (2026-07-10)
@@ -21,6 +26,7 @@
 - [Itaru Hashida](/entities/itaru-hashida) (2026-07-10)
 - [Makima](/entities/makima) (2026-07-10)
 - [Mayuri Shiina](/entities/mayuri-shiina) (2026-07-10)
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/re-zero-4th-season) (2026-07-10)
 - [Reze](/entities/reze) (2026-07-10)
 - [Rintarou Okabe](/entities/rintarou-okabe) (2026-07-10)
 - [Shiganshina District (希干希纳区)](/entities/shiganshina-district-希干希纳区) (2026-07-10)
@@ -62,10 +68,12 @@
 
 ## 数据源
 
+- [Chainsaw Man Movie: Reze-hen — MyAnimeList Entry](/sources/5-anime--5-57555--1y8c62s) (2026-07-10)
 - [Fullmetal Alchemist: Brotherhood — MyAnimeList Entry](/sources/5-anime--4-5114--1c0yhqi) (2026-07-10)
 - [Gintama: The Very Final — MyAnimeList Entry](/sources/5-anime--5-39486--1xtfkzd) (2026-07-10)
 - [Gintama° — MyAnimeList Entry](/sources/5-anime--5-28977--331hgy) (2026-07-10)
 - [Hunter x Hunter (2011) — MyAnimeList Entry](/sources/5-anime--5-11061--el9cpu) (2026-07-10)
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season — MyAnimeList Entry](/sources/5-anime--5-61316--b37doc) (2026-07-10)
 - [Shingeki no Kyojin Season 3 Part 2 — MyAnimeList Entry](/sources/5-anime--5-38524--hnv61b) (2026-07-10)
 - [Sousou no Frieren (Frieren: Beyond Journey's End) — MyAnimeList Entry](/sources/5-anime--5-52991--tdvct7) (2026-07-10)
 - [Steel Ball Run: JoJo no Kimyou na Bouken — MyAnimeList Entry](/sources/5-anime--5-61469--1wzzu89) (2026-07-10)
