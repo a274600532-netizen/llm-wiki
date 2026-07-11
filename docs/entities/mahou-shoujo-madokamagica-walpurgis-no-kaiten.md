@@ -4,6 +4,7 @@ title: "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten"
 tags:
   - Mahou Shoujo
   - seasonal
+date: 2026-07-11
 ---
 
 # Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten (劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉)

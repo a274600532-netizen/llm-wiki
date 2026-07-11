@@ -20,6 +20,7 @@ authors: []
 year: 2023
 url: https://myanimelist.net/anime/52991
 venue: MyAnimeList
+date: 2026-07-10
 ---
 
 # Sousou no Frieren (Frieren: Beyond Journey's End) — MyAnimeList Entry

@@ -12,6 +12,7 @@ sources:
 - anime/11061.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # Ging Freecss (金·富力士)

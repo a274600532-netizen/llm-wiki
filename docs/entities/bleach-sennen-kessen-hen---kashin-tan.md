@@ -6,6 +6,7 @@ tags:
   - Adventure
   - Supernatural
   - seasonal
+date: 2026-07-11
 ---
 
 # BLEACH: Sennen Kessen-hen - Kashin-tan (BLEACH 千年血戦篇-禍進譚-)

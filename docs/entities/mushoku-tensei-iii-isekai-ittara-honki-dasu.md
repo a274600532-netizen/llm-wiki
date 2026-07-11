@@ -7,6 +7,7 @@ tags:
   - Ecchi
   - Fantasy
   - seasonal
+date: 2026-07-11
 ---
 
 # Mushoku Tensei III: Isekai Ittara Honki Dasu (無職転生Ⅲ ～異世界行ったら本気だす～)

@@ -5,6 +5,7 @@ tags: [ai, news, qbitai, fallback, research]
 related: [ai-daily-news-digest]
 created: 2026-07-11
 updated: 2026-07-11
+date: 2026-07-11
 ---
 
 # QbitAI (量子位) WordPress API

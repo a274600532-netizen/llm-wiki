@@ -6,6 +6,7 @@ tags:
   - Romance
   - Slice of Life
   - seasonal
+date: 2026-07-11
 ---
 
 # Super no Ura de Yani Suu Futari (スーパーの裏でヤニ吸うふたり)

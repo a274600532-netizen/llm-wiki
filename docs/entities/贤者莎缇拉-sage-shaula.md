@@ -14,6 +14,7 @@ related:
 - authority-of-gluttony
 sources:
 - anime/61316.md
+date: 2026-07-10
 ---
 
 # "贤者"莎缇拉 (Sage Shaula)

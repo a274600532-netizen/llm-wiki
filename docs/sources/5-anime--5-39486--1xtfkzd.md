@@ -22,6 +22,7 @@ authors: []
 year: 2021
 url: https://myanimelist.net/anime/39486/Gintama__The_Final
 venue: MyAnimeList
+date: 2026-07-10
 ---
 
 # Gintama: The Very Final — MyAnimeList Entry

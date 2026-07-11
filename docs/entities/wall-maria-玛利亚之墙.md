@@ -13,6 +13,7 @@ created: 2026-07-10
 updated: 2026-07-10
 sources:
 - anime/38524.md
+date: 2026-07-10
 ---
 # Wall Maria (玛利亚之墙)
 

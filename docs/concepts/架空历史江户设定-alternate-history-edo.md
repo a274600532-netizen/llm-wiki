@@ -12,6 +12,7 @@ sources:
 - anime/28977.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # 架空历史江户设定 (Alternate-history Edo)

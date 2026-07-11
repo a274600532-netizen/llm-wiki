@@ -6,6 +6,7 @@ tags:
   - Fantasy
   - Romance
   - seasonal
+date: 2026-07-11
 ---
 
 # Kimi ga Shinu made Koi wo Shitai (きみが死ぬまで恋をしたい)

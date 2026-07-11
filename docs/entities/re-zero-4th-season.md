@@ -17,6 +17,7 @@ related:
 - sage-shaula
 sources:
 - anime/61316.md
+date: 2026-07-10
 ---
 
 # Re:Zero kara Hajimeru Isekai Seikatsu 4th Season

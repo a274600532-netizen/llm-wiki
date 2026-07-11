@@ -8,6 +8,7 @@ tags:
   - Sci-Fi
   - Supernatural
   - seasonal
+date: 2026-07-11
 ---
 
 # BLACK TORCH (BLACK TORCH)

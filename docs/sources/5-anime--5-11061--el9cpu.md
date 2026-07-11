@@ -19,6 +19,7 @@ authors: []
 year: 2011
 url: https://myanimelist.net/anime/11061
 venue: MyAnimeList
+date: 2026-07-10
 ---
 
 # Hunter x Hunter (2011) — MyAnimeList Entry

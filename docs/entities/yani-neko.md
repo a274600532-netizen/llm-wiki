@@ -5,6 +5,7 @@ tags:
   - Comedy
   - Slice of Life
   - seasonal
+date: 2026-07-11
 ---
 
 # Yani Neko (ヤニねこ)

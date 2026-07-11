@@ -5,6 +5,7 @@ tags: [redfox, xiaohongshu, api, trending, social-media]
 related: [ai-daily-news-digest]
 created: 2026-07-11
 updated: 2026-07-11
+date: 2026-07-11
 ---
 
 # RedFox API — 小红书热门数据接口

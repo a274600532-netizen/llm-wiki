@@ -5,6 +5,7 @@ tags:
   - Adventure
   - Romance
   - seasonal
+date: 2026-07-11
 ---
 
 # Nijusseiki Denki Mokuroku: Eureka・Evrika (二十世紀電氣目録-ユーレカ・エヴリカ-)

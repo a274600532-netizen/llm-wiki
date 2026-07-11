@@ -14,6 +14,7 @@ created: 2026-07-10
 updated: 2026-07-10
 sources:
 - anime/9253.md
+date: 2026-07-10
 ---
 
 # Rintarou Okabe（冈部伦太郎）

@@ -14,6 +14,7 @@ sources:
 - anime/11061.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # Gon Freecss (小杰·富力士)

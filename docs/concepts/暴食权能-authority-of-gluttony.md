@@ -14,6 +14,7 @@ related:
 - rem
 sources:
 - anime/61316.md
+date: 2026-07-10
 ---
 
 # "暴食"权能 (Authority of Gluttony)

@@ -7,6 +7,7 @@ tags:
   - Romance
   - Slice of Life
   - seasonal
+date: 2026-07-11
 ---
 
 # Seihantai na Kimi to Boku 2nd Season (正反対な君と僕 第2期)

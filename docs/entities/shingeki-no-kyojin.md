@@ -14,6 +14,7 @@ created: 2026-07-10
 updated: 2026-07-10
 sources:
 - anime/38524.md
+date: 2026-07-10
 ---
 # Shingeki no Kyojin (Attack on Titan)
 

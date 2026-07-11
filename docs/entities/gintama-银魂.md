@@ -16,6 +16,7 @@ sources:
 - anime/28977.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # Gintama° (银魂°)

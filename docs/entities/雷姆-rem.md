@@ -12,6 +12,7 @@ related:
 - authority-of-gluttony
 sources:
 - anime/61316.md
+date: 2026-07-10
 ---
 
 # 雷姆 (Rem)

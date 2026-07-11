@@ -19,6 +19,7 @@ authors: []
 year: 2009
 url: https://myanimelist.net/anime/5114
 venue: MyAnimeList
+date: 2026-07-10
 ---
 
 # Fullmetal Alchemist: Brotherhood — MyAnimeList Entry

@@ -5,6 +5,7 @@ tags:
   - Action
   - Fantasy
   - seasonal
+date: 2026-07-11
 ---
 
 # Youjo Senki II (幼女戦記Ⅱ)

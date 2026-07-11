@@ -14,6 +14,7 @@ sources:
 - anime/52991.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # 长寿种的时间感知 (Long-Lived Time Perception)

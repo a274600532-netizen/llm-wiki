@@ -5,6 +5,7 @@ tags: [lottery, ssq, prediction, statistics, machine-learning, markov, mutual-in
 related: [ssq-project-closure-report]
 created: 2026-07-11
 updated: 2026-07-11
+date: 2026-07-11
 ---
 
 # 双色球彩票预测技术深度分析

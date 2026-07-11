@@ -14,6 +14,7 @@ sources:
 - anime/5114.md
 created: 2026-07-10
 updated: 2026-07-10
+date: 2026-07-10
 ---
 
 # 钢之炼金术师 FULLMETAL ALCHEMIST
