@@ -11,6 +11,8 @@ export default defineConfig({
   ignoreDeadLinks: true,
 
   themeConfig: {
+    search: { provider: 'local' },
+
     nav: [
       { text: '首页', link: '/' },
       { text: '实体', link: '/entities/' },
