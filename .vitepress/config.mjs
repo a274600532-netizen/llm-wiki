@@ -11,12 +11,12 @@ export default defineConfig({
   ignoreDeadLinks: true,
 
   themeConfig: {
-    search: { provider: 'local' },
-
     nav: [
       { text: '首页', link: '/' },
       { text: '实体', link: '/entities/' },
       { text: '概念', link: '/concepts/' },
+      { text: 'AI日报', link: '/concepts/' },
+      { text: '双色球', link: '/concepts/' },
       { text: '数据源', link: '/sources/' },
     ],
 
