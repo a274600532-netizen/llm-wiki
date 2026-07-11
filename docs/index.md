@@ -2,6 +2,16 @@
 
 ## 实体
 
+- [BLACK TORCH](/entities/black-torch) (2026-07-11)
+- [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) (2026-07-11)
+- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) (2026-07-11)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) (2026-07-11)
+- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) (2026-07-11)
+- [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) (2026-07-11)
+- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) (2026-07-11)
+- [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) (2026-07-11)
+- [Yani Neko](/entities/yani-neko) (2026-07-11)
+- [Youjo Senki II](/entities/youjo-senki-ii) (2026-07-11)
 - [alphonse-elric](/entities/阿尔冯斯艾尔利克) — 阿尔冯斯·艾尔利克，《钢之炼金术师》核心主角 (2026-07-10)
 - [armin-arlert](/entities/armin-arlert-阿明阿诺德) — 阿明·阿诺德，《进击的巨人》系列核心角色 (2026-07-10)
 - [chainsaw-man-reze-movie](/entities/chainsaw-man-reze-movie) — 《Chainsaw Man Movie: Reze-hen》作品实体，包含元数据、评分与剧情概要 (2026-07-10)
