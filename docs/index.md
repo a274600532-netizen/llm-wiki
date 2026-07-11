@@ -1,5 +1,21 @@
 # 首页
 
+<!-- LATEST_START -->
+## 最新更新
+
+- [Youjo Senki II](/entities/youjo-senki-ii) (2026-07-11)
+- [Yani Neko](/entities/yani-neko) (2026-07-11)
+- [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) (2026-07-11)
+- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) (2026-07-11)
+- [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) (2026-07-11)
+- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) (2026-07-11)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) (2026-07-11)
+- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) (2026-07-11)
+- [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) (2026-07-11)
+- [BLACK TORCH](/entities/black-torch) (2026-07-11)
+
+<!-- LATEST_END -->
+
 ## 实体
 
 - [sousou-no-frieren](/entities/sousou-no-frieren) — 《葬送的芙莉莲》作品实体，包含元数据、评分与剧情概要 (2026-07-10)
