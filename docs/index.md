@@ -1,16 +1,16 @@
 # 首页
 
 ## 实体
-- [BLACK TORCH](/entities/black-torch) (2026-07-11)
-- [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) (2026-07-11)
-- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) (2026-07-11)
-- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) (2026-07-11)
-- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) (2026-07-11)
-- [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) (2026-07-11)
-- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) (2026-07-11)
-- [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) (2026-07-11)
-- [Yani Neko](/entities/yani-neko) (2026-07-11)
-- [Youjo Senki II](/entities/youjo-senki-ii) (2026-07-11)
+- [BLACK TORCH](/entities/black-torch) — Jirou Azuma is no average high schooler (2026-07-11)
+- [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) — The fourth and final part of BLEACH: Sennen Kessen-hen (2026-07-11)
+- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) — At the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no l… (2026-07-11)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) — The 10th anniversary online event for the Mahou Shoujo Madoka☆Magica anime revealed that the franchi… (2026-07-11)
+- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) — The third season of Mushoku Tensei: Isekai Ittara Honki Dasu (2026-07-11)
+- [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) — The novel takes place in the summer of 1907, the 40th year of the Meiji era (2026-07-11)
+- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) — The second season of Seihantai na Kimi to Boku (2026-07-11)
+- [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) — At age forty-five, office worker Sasaki has had enough of the corporate grind (2026-07-11)
+- [Yani Neko](/entities/yani-neko) — Yani is a catgirl with a seriously bad smoking habit (2026-07-11)
+- [Youjo Senki II](/entities/youjo-senki-ii) — The second season of Youjo Senki (2026-07-11)
 - [alphonse-elric](/entities/阿尔冯斯艾尔利克) — 阿尔冯斯·艾尔利克，《钢之炼金术师》核心主角 (2026-07-10)
 - [armin-arlert](/entities/armin-arlert-阿明阿诺德) — 阿明·阿诺德，《进击的巨人》系列核心角色 (2026-07-10)
 - [chainsaw-man-reze-movie](/entities/chainsaw-man-reze-movie) — 《Chainsaw Man Movie: Reze-hen》作品实体，包含元数据、评分与剧情概要 (2026-07-10)
@@ -64,12 +64,6 @@
 
 
 ## 查询
-
-<form action="https://duckduckgo.com/" method="get" target="_blank">
-  <input type="hidden" name="sites" value="a274600532-netizen.github.io/llm-wiki">
-  <input type="text" name="q" placeholder="搜索知识库内容..." style="width:100%;max-width:400px;padding:8px 12px;border:1px solid #ddd;border-radius:6px;font-size:14px;">
-  <button type="submit" style="padding:8px 16px;margin-left:6px;border:1px solid #ddd;border-radius:6px;background:#f0f0f0;cursor:pointer;">搜索</button>
-</form>
 
 ## 对比
 
