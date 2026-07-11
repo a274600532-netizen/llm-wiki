@@ -68,8 +68,19 @@
 - [5-anime--5-39486--1xtfkzd](/sources/5-anime--5-39486--1xtfkzd) — Gintama: The Very Final — MyAnimeList Entry (2026-07-10)
 - [5-anime--5-11061--el9cpu](/sources/5-anime--5-11061--el9cpu) — Hunter x Hunter (2011) — MyAnimeList Entry (2026-07-10)
 
-## 查询
-
-## 对比
-
-## 综述
+|## AI日报
+|
+|- [ai-daily-news-digest](/concepts/ai-daily-news-digest) — AI Daily News Digest，通过公共 API 获取每日 AI 行业新闻的系统，数据来源于 AI HOT 平台 (2026-07-11)
+|- [qbitai-fallback-api](/concepts/qbitai-fallback-api) — QbitAI (量子位) WordPress API，当 AI HOT 不可用时的 AI 日报回退方案 (2026-07-11)
+|- [redfox-api](/concepts/redfox-api) — RedFox API，小红书热门数据接口，提供爆款笔记和全网热搜关键词数据 (2026-07-11)
+|
+|## 双色球
+|
+|- [双色球-lottery-prediction-techniques](/concepts/双色球-lottery-prediction-techniques) — 双色球彩票预测技术深度分析，五种主流预测方法的系统性数学评估 (2026-07-11)
+|- [ssq-project-closure-report](/synthesis/ssq-project-closure-report) — 双色球预测项目总结报告，63种方法系统测试后的正式结项报告 (2026-07-11)
+|
+|## 查询
+|
+|## 对比
+|
+|## 综述
