@@ -63,6 +63,35 @@
 - [双色球-lottery-prediction-techniques](/concepts/双色球-lottery-prediction-techniques) — 双色球彩票预测技术深度分析，五种主流预测方法的系统性数学评估 (2026-07-11)
 
 
+## 当前季度
+
+- [BLACK TORCH](/entities/black-torch) — 72/100, 人气37604 (2026-07-12)
+- [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) — None/100, 人气53583 (2026-07-12)
+- [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) — 75/100, 人气37621 (2026-07-12)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten](/entities/mahou-shoujo-madokamagica-walpurgis-no-kaiten) — None/100, 人气46285 (2026-07-12)
+- [Mushoku Tensei III: Isekai Ittara Honki Dasu](/entities/mushoku-tensei-iii-isekai-ittara-honki-dasu) — 86/100, 人气114960 (2026-07-12)
+- [Nijusseiki Denki Mokuroku: Eureka・Evrika](/entities/nijusseiki-denki-mokuroku-eurekaevrika) — 75/100, 人气36876 (2026-07-12)
+- [Seihantai na Kimi to Boku 2nd Season](/entities/seihantai-na-kimi-to-boku-2nd-season) — 81/100, 人气38169 (2026-07-12)
+- [Super no Ura de Yani Suu Futari](/entities/super-no-ura-de-yani-suu-futari) — 83/100, 人气81873 (2026-07-12)
+- [Yani Neko](/entities/yani-neko) — 67/100, 人气39956 (2026-07-12)
+- [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
+
+## 热门趋势
+
+- [Yomi no Tsugai] — 78/100 (2026-07-12)
+- [Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita] — 72/100 (2026-07-12)
+- [BLACK TORCH] — 72/100 (2026-07-12)
+- [Tensei Shitara Slime Datta Ken 4th Season] — 82/100 (2026-07-12)
+- [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
+
+## 即将播出
+
+- [BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-12)
+- [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-12)
+- [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-12)
+- [Black Clover 2nd Season] — 2026-10播出 (2026-07-12)
+- [Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-12)
+
 ## 查询
 
 ## 对比
