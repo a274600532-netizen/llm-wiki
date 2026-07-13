@@ -77,6 +77,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 86/100 (2026-07-13)
+[ONE PIECE] — 87/100 (2026-07-13)
+[Seihantai na Kimi to Boku 2nd Season] — 81/100 (2026-07-13)
+[Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season] — 80/100 (2026-07-13)
+[Nijusseiki Denki Mokuroku: Eureka・Evrika] — 75/100 (2026-07-13)
 
 - [Yomi no Tsugai] — 78/100 (2026-07-12)
 - [Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita] — 72/100 (2026-07-12)
@@ -85,6 +90,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-13)
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-13)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-13)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-13)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-13)
 
 - [BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-12)
 - [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-12)
