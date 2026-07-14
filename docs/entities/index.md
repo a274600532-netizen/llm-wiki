@@ -1,5 +1,8 @@
 # 实体
 
+
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/rezero-kara-hajimeru-isekai-seikatsu-4th-season) (2026-07-14)
+- [Tongari Boushi no Atelier](/entities/tongari-boushi-no-atelier) (2026-07-14)
 - [BLACK TORCH](/entities/black-torch) (2026-07-11)
 - [BLEACH: Sennen Kessen-hen - Kashin-tan](/entities/bleach-sennen-kessen-hen---kashin-tan) (2026-07-11)
 - [Kimi ga Shinu made Koi wo Shitai](/entities/kimi-ga-shinu-made-koi-wo-shitai) (2026-07-11)
