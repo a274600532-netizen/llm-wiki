@@ -16,9 +16,9 @@ sources:
 - anime/61316.md
 date: 2026-07-10
 ---
-
 # "暴食"权能 (Authority of Gluttony)
 
+- **发布日期**: 2026年07月10日
 "暴食"权能（Authority of Gluttony）是《Re:Zero kara Hajimeru Isekai Seikatsu》系列中的一种邪恶力量，属于魔女教大罪司教的能力之一。
 
 ## 能力机制

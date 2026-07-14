@@ -7,9 +7,9 @@ created: 2026-07-11
 updated: 2026-07-11
 date: 2026-07-11
 ---
-
 # RedFox API — 小红书热门数据接口
 
+- **发布日期**: 2026年07月11日
 > CLI 脚本位于 `~/.hermes/scripts/redfox_api.py`
 
 ## 概述

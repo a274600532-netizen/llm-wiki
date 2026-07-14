@@ -7,9 +7,9 @@ created: 2026-07-11
 updated: 2026-07-11
 date: 2026-07-11
 ---
-
 # AI Daily News Digest — AI日报系统
 
+- **发布日期**: 2026年07月11日
 > 来源：AI HOT (https://aihot.virxact.com) 由数字生命卡兹克 (Khazix) 提供
 
 ## 概述

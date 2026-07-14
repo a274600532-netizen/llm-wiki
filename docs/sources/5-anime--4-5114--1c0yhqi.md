@@ -21,9 +21,9 @@ url: https://myanimelist.net/anime/5114
 venue: MyAnimeList
 date: 2026-07-10
 ---
-
 # Fullmetal Alchemist: Brotherhood — MyAnimeList Entry
 
+- **发布日期**: 2026年07月10日
 《钢之炼金术师 FULLMETAL ALCHEMIST》是2009年播出的日本动画，改编自荒川弘的同名漫画。本页面记录了来自MyAnimeList的元数据与剧情概要。
 
 ## 元数据

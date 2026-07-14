@@ -22,9 +22,9 @@ url: https://myanimelist.net/anime/52991
 venue: MyAnimeList
 date: 2026-07-10
 ---
-
 # Sousou no Frieren (Frieren: Beyond Journey's End) — MyAnimeList Entry
 
+- **发布日期**: 2026年07月10日
 《葬送的芙莉莲》（英文标题 *Frieren: Beyond Journey's End*）是一部2023年播出的日本动画作品，改编自由山田钟人原作、阿部司作画的同名漫画。本条目基于MyAnimeList（MAL）元数据与剧情摘要。
 
 ## 元数据

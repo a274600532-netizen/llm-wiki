@@ -4,9 +4,9 @@ title: "二次元情报雷达 2026-07-13"
 tags: [anime, radar, seasonal, daily-report]
 created: 2026-07-13
 ---
-
 # 二次元情报雷达 2026-07-13
 
+- **发布日期**: 2026年07月13日
 ## 当季新番 TOP 10
 
 1. **Mushoku Tensei III: Isekai Ittara Honki Dasu**（无职転生Ⅲ ～異世界行ったら本気だす～）

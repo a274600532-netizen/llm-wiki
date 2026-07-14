@@ -13,9 +13,9 @@ created: 2026-07-10
 updated: 2026-07-10
 date: 2026-07-10
 ---
-
 # Steel Ball Run 赛事
 
+- **发布日期**: 2026年07月10日
 Steel Ball Run 是《Steel Ball Run: JoJo no Kimyou na Bouken》中的核心设定，一场横跨美国旧西部的跨国越野赛。
 
 ## 赛事设定

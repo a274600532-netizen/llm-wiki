@@ -4,9 +4,9 @@ title: "二次元情报雷达 2026-07-12"
 tags: [anime, radar, seasonal, daily-report]
 created: 2026-07-12
 ---
-
 # 二次元情报雷达 2026-07-12
 
+- **发布日期**: 2026年07月12日
 ## 当季新番 TOP 10
 
 数据源：AniList GraphQL API，筛选条件为 2026 年夏季动画，按 TRENDING_DESC 获取。

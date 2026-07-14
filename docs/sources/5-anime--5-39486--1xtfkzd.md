@@ -24,9 +24,9 @@ url: https://myanimelist.net/anime/39486/Gintama__The_Final
 venue: MyAnimeList
 date: 2026-07-10
 ---
-
 # Gintama: The Very Final — MyAnimeList Entry
 
+- **发布日期**: 2026年07月10日
 《Gintama: The Very Final》（银魂：最终篇）是《银魂》系列的最终章电影，于2021年上映，片长1集。在MyAnimeList上获得9.05的高评分，状态为"Finished Airing"。类型涵盖Action、Comedy、Drama、Sci-Fi。
 
 ## 剧情概要

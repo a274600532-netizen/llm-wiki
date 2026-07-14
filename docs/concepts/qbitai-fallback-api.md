@@ -7,9 +7,9 @@ created: 2026-07-11
 updated: 2026-07-11
 date: 2026-07-11
 ---
-
 # QbitAI (量子位) WordPress API
 
+- **发布日期**: 2026年07月11日
 > AI Daily News Digest 回退方案 — 当 AI HOT 不可用时使用
 
 ## 概述
