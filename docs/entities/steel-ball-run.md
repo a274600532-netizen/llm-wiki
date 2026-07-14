@@ -17,7 +17,7 @@ date: 2026-07-10
 
 # Steel Ball Run: JoJo no Kimyou na Bouken
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 《Steel Ball Run: JoJo no Kimyou na Bouken》（Steel Ball Run: JoJo's Bizarre Adventure）是《JoJo的奇妙冒险》系列的一部动画作品，于2026年播出。该作品在 MyAnimeList 上获得9.1的高评分，目前状态为"Currently Airing"。
 
 ## 作品信息

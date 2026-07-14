@@ -12,7 +12,7 @@ date: 2026-07-11
 # BLEACH: Sennen Kessen-hen - Kashin-tan (BLEACH 千年血戦篇-禍進譚-)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: BLEACH: Sennen Kessen-hen - Kashin-tan
 - **英文标题**: BLEACH: Thousand-Year Blood War - The Calamity

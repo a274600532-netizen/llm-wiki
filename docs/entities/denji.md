@@ -19,7 +19,7 @@ date: 2026-07-10
 
 # Denji
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 Denji是《电锯人》系列的核心主角，也是《Chainsaw Man Movie: Reze-hen》的主要角色。他是一名[devil-hunter](/concepts/恶魔猎人-devil-hunter)，隶属于公安对魔特异课。
 
 ## 在《蕾塞篇》中的角色

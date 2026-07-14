@@ -17,7 +17,7 @@ date: 2026-07-10
 ---
 # Armin Arlert (阿明·阿诺德)
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 阿明·阿诺德是《Shingeki no Kyojin》（进击的巨人）系列的核心角色之一，是[eren-yeager](/entities/eren-yeager-艾伦耶格尔)的挚友，也是[survey-corps](/entities/survey-corps-调查兵团)的成员。他以卓越的智谋和战略思维著称。
 
 ## 在第三季 Part 2 中的关键作用

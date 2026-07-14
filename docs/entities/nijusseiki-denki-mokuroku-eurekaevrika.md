@@ -11,7 +11,7 @@ date: 2026-07-11
 # Nijusseiki Denki Mokuroku: Eureka・Evrika (二十世紀電氣目録-ユーレカ・エヴリカ-)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: Nijusseiki Denki Mokuroku: Eureka・Evrika
 - **英文标题**: Sparks of Tomorrow

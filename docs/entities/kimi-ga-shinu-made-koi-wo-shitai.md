@@ -12,7 +12,7 @@ date: 2026-07-11
 # Kimi ga Shinu made Koi wo Shitai (きみが死ぬまで恋をしたい)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: Kimi ga Shinu made Koi wo Shitai
 - **英文标题**: I Want to Love You Till Your Dying Day

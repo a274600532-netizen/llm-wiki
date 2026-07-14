@@ -18,7 +18,7 @@ date: 2026-07-10
 
 # 真选组 (Shinsengumi)
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 真选组（Shinsengumi）是《银魂》系列中的重要组织，在最终章《[5-anime--5-39486--1xtfkzd](/entities/gintama-银魂)》中与[yorozuya](/entities/万事屋-yorozuya)联手行动。
 
 ## 在最终章中的角色

@@ -12,7 +12,7 @@ date: 2026-07-11
 # Super no Ura de Yani Suu Futari (スーパーの裏でヤニ吸うふたり)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: Super no Ura de Yani Suu Futari
 - **英文标题**: Smoking Behind the Supermarket with You

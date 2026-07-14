@@ -19,7 +19,7 @@ date: 2026-07-10
 
 # "贤者"莎缇拉 (Sage Shaula)
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 "贤者"莎缇拉（Sage Shaula）是《Re:Zero kara Hajimeru Isekai Seikatsu 4th Season》中提到的关键人物，被描述为一个全知的存在，据称拥有所有形式的知识。
 
 ## 角色定位

@@ -28,7 +28,7 @@ tags:
 - **制作公司**: WHITE FOX
 - **来源**: LIGHT_NOVEL
 - **AniList**: https://anilist.co/anime/189046
-- **入库日期**: 2026-07-14
+- **发布日期**: 2026年07月14日
 
 ## 简介
 

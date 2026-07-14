@@ -11,7 +11,7 @@ date: 2026-07-11
 # Youjo Senki II (幼女戦記Ⅱ)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: Youjo Senki II
 - **英文标题**: Saga of Tanya the Evil Season 2

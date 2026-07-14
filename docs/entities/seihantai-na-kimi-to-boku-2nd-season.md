@@ -13,7 +13,7 @@ date: 2026-07-11
 # Seihantai na Kimi to Boku 2nd Season (正反対な君と僕 第2期)
 
 ## 基本信息
-- **入库日期**: 2026-07-11
+- **发布日期**: 2026年07月11日
 
 - **标题**: Seihantai na Kimi to Boku 2nd Season
 - **英文标题**: You and I Are Polar Opposites Season 2

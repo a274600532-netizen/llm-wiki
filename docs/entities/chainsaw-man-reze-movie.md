@@ -19,7 +19,7 @@ date: 2026-07-10
 
 # Chainsaw Man Movie: Reze-hen
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 《Chainsaw Man Movie: Reze-hen》（电锯人 蕾塞篇）是2025年上映的日本动画电影，改编自藤本树创作的漫画《电锯人》中的"蕾塞篇"剧情。电影由MAPPA制作，在MyAnimeList上获得9.06的高评分。
 
 ## 元数据

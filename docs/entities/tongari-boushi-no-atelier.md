@@ -24,7 +24,7 @@ tags:
 - **制作公司**: BUG FILMS
 - **来源**: MANGA
 - **AniList**: https://anilist.co/anime/147105
-- **入库日期**: 2026-07-14
+- **发布日期**: 2026年07月14日
 
 ## 简介
 

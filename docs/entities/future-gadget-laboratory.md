@@ -19,7 +19,7 @@ date: 2026-07-10
 
 # Future Gadget Laboratory（未来道具研究所）
 
-- **入库日期**: 2026-07-10
+- **发布日期**: 2026年07月10日
 未来道具研究所是《[steins-gate](/entities/steins-gate)》中的核心组织设定，由[rintarou-okabe](/entities/rintarou-okabe)、[mayuri-shiina](/entities/mayuri-shiina)和[itaru-hashida](/entities/itaru-hashida)三人共同创立。
 
 ## 组织概况
