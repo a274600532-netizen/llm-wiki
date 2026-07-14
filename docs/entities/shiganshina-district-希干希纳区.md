@@ -18,6 +18,7 @@ date: 2026-07-10
 ---
 # Shiganshina District (希干希纳区)
 
+- **入库日期**: 2026-07-10
 希干希纳区是《Shingeki no Kyojin》（进击的巨人）系列中位于[wall-maria](/entities/wall-maria-玛利亚之墙)内的一个区域，是主角[eren-yeager](/entities/eren-yeager-艾伦耶格尔)的故乡。该区域在故事早期被超大型巨人突破，成为系列悲剧的起点。
 
 ## 在第三季 Part 2 中的角色

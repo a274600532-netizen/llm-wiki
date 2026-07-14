@@ -19,6 +19,7 @@ date: 2026-07-10
 
 # Itaru Hashida（桥田至）
 
+- **入库日期**: 2026-07-10
 桥田至是《[steins-gate](/entities/steins-gate)》中的核心配角，[rintarou-okabe](/entities/rintarou-okabe)的室友，绰号"达鲁"。他是一名技术天才，是[future-gadget-laboratory](/entities/future-gadget-laboratory)的创始成员之一。
 
 ## 角色定位

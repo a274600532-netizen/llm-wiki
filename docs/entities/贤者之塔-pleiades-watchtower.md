@@ -18,6 +18,7 @@ date: 2026-07-10
 
 # 贤者之塔 (Pleiades Watchtower)
 
+- **入库日期**: 2026-07-10
 贤者之塔（Pleiades Watchtower）是《Re:Zero kara Hajimeru Isekai Seikatsu 4th Season》中故事的主要舞台和最终目的地。
 
 ## 设定

@@ -19,6 +19,7 @@ date: 2026-07-10
 
 # Mayuri Shiina（椎名真由理）
 
+- **入库日期**: 2026-07-10
 椎名真由理是《[steins-gate](/entities/steins-gate)》中的核心配角，[rintarou-okabe](/entities/rintarou-okabe)的青梅竹马朋友。她性格天真善良，是[future-gadget-laboratory](/entities/future-gadget-laboratory)的创始成员之一。
 
 ## 角色定位

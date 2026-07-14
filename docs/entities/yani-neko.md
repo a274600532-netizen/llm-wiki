@@ -11,6 +11,7 @@ date: 2026-07-11
 # Yani Neko (ヤニねこ)
 
 ## 基本信息
+- **入库日期**: 2026-07-11
 
 - **标题**: Yani Neko
 - **英文标题**: Chainsmoker Cat

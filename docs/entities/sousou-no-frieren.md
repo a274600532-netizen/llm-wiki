@@ -23,6 +23,7 @@ date: 2026-07-10
 
 # Sousou no Frieren (Frieren: Beyond Journey's End)
 
+- **入库日期**: 2026-07-10
 《葬送的芙莉莲》是一部日本漫画及动画作品，由山田钟人原作、阿部司作画。动画版于2023年播出，共28集，在MyAnimeList上获得9.26的极高评分。
 
 ## 作品信息

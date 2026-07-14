@@ -77,6 +77,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II] — 69/100 (2026-07-14)
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 86/100 (2026-07-14)
+[ONE PIECE] — 87/100 (2026-07-14)
+[Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.] — 75/100 (2026-07-14)
+[Grand Blue Season 3] — 82/100 (2026-07-14)
 [Mushoku Tensei III: Isekai Ittara Honki Dasu] — 86/100 (2026-07-14)
 [ONE PIECE] — 87/100 (2026-07-14)
 [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II] — 69/100 (2026-07-14)
@@ -100,6 +105,11 @@
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-14)
 [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-14)
 [Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-14)
+[BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-14)
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-14)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-14)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-14)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-14)
 [BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-13)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-13)
 [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-13)
@@ -111,6 +121,11 @@
 - [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-12)
 - [Black Clover 2nd Season] — 2026-10播出 (2026-07-12)
 - [Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-12)
+
+## 高分推荐
+
+- [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/rezero-kara-hajimeru-isekai-seikatsu-4th-season) — 90/100, 人气120395 (2026-07-14)
+- [Tongari Boushi no Atelier](/entities/tongari-boushi-no-atelier) — 85/100, 人气202290 (2026-07-14)
 
 ## 查询
 

@@ -17,6 +17,7 @@ date: 2026-07-10
 
 # 雷姆 (Rem)
 
+- **入库日期**: 2026-07-10
 雷姆（Rem）是《Re:Zero kara Hajimeru Isekai Seikatsu》系列的重要角色，鬼族的女仆。
 
 ## 第四季中的状态

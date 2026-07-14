@@ -19,6 +19,7 @@ date: 2026-07-10
 
 # 钢之炼金术师 FULLMETAL ALCHEMIST
 
+- **入库日期**: 2026-07-10
 《钢之炼金术师 FULLMETAL ALCHEMIST》（Fullmetal Alchemist: Brotherhood）是2009年播出的日本动画，改编自荒川弘的同名漫画。该作品在MyAnimeList上获得9.11的高分，被广泛认为是有史以来最伟大的动画之一。
 
 ## 元数据

@@ -10,6 +10,7 @@ date: 2026-07-11
 # Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten (劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉)
 
 ## 基本信息
+- **入库日期**: 2026-07-11
 
 - **标题**: Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten
 - **英文标题**: Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-

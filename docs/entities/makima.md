@@ -19,6 +19,7 @@ date: 2026-07-10
 
 # Makima
 
+- **入库日期**: 2026-07-10
 Makima是《电锯人》系列中的精英[devil-hunter](/concepts/恶魔猎人-devil-hunter)，在《Chainsaw Man Movie: Reze-hen》中扮演关键推动者的角色。
 
 ## 在《蕾塞篇》中的角色

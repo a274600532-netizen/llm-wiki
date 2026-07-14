@@ -22,6 +22,7 @@ date: 2026-07-10
 
 # Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
 
+- **入库日期**: 2026-07-10
 《Re:Zero kara Hajimeru Isekai Seikatsu 4th Season》（Re:ZERO -Starting Life in Another World- Season 4）是2026年播出的日本动画，改编自长月达平的同名轻小说系列。本季共19集，目前正在播出中，在MyAnimeList上获得9.18的评分。
 
 ## 剧情概要

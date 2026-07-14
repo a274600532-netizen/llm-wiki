@@ -13,6 +13,7 @@ date: 2026-07-11
 # Mushoku Tensei III: Isekai Ittara Honki Dasu (無職転生Ⅲ ～異世界行ったら本気だす～)
 
 ## 基本信息
+- **入库日期**: 2026-07-11
 
 - **标题**: Mushoku Tensei III: Isekai Ittara Honki Dasu
 - **英文标题**: Mushoku Tensei: Jobless Reincarnation Season 3

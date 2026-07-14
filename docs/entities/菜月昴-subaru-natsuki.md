@@ -20,6 +20,7 @@ date: 2026-07-10
 
 # 菜月昴 (Subaru Natsuki)
 
+- **入库日期**: 2026-07-10
 菜月昴（Subaru Natsuki）是《Re:Zero kara Hajimeru Isekai Seikatsu》系列的主角。在第四季中，他面临着前所未有的挑战。
 
 ## 第四季中的角色定位

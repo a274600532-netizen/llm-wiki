@@ -14,6 +14,7 @@ date: 2026-07-11
 # BLACK TORCH (BLACK TORCH)
 
 ## 基本信息
+- **入库日期**: 2026-07-11
 
 - **标题**: BLACK TORCH
 - **英文标题**: BLACK TORCH
