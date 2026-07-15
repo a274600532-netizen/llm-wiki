@@ -1,5 +1,6 @@
 # 实体
 
+- [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) (2026-07-15)
 
 - [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/rezero-kara-hajimeru-isekai-seikatsu-4th-season) (2026-07-14)
 - [Tongari Boushi no Atelier](/entities/tongari-boushi-no-atelier) (2026-07-14)
