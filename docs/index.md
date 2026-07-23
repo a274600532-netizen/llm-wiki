@@ -64,6 +64,7 @@
 
 
 ## 当前季度
+[Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气43286 (2026-07-23)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 75/100, 人气42954 (2026-07-22)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 75/100, 人气42493 (2026-07-21)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 75/100, 人气41807 (2026-07-20)
@@ -85,6 +86,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Youjo Senki II] — 81/100 (2026-07-23)
+[LV999 no Murabito] — 63/100 (2026-07-23)
+[Katainaka no Ossan, Kensei ni Naru II] — 72/100 (2026-07-23)
+[Dogul Wang] — 67/100 (2026-07-23)
+[Otomege Sekai wa Mob ni Kibishii Sekai desu 2] — 68/100 (2026-07-23)
 [Koukaku Kidoutai: THE GHOST IN THE SHELL] — 77/100 (2026-07-22)
 [Kimi ga Shinu made Koi wo Shitai] — 75/100 (2026-07-22)
 [Mushoku Tensei III: Isekai Ittara Honki Dasu] — 86/100 (2026-07-22)
@@ -148,6 +154,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-23)
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-23)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-23)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-23)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-23)
 [BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-22)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-22)
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-22)
