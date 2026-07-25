@@ -1,5 +1,6 @@
 # 实体
 
+- [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) (2026-07-25)
 - [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) (2026-07-15)
 
 - [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](/entities/rezero-kara-hajimeru-isekai-seikatsu-4th-season) (2026-07-14)

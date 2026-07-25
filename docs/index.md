@@ -64,6 +64,7 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气44083 (2026-07-25)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气43592 (2026-07-24)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气43286 (2026-07-23)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 75/100, 人气42954 (2026-07-22)
@@ -87,6 +88,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Tensei Shitara Slime Datta Ken 4th Season] — 82/100 (2026-07-25)
+[Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season] — 72/100 (2026-07-25)
+[Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.] — 66/100 (2026-07-25)
+[Ryoumin 0-Nin Start no Henkyou Ryoushu-sama] — 68/100 (2026-07-25)
+[ONE PIECE] — 87/100 (2026-07-25)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru] — 67/100 (2026-07-24)
 [Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku] — 66/100 (2026-07-24)
 [Yani Neko] — 68/100 (2026-07-24)
@@ -160,6 +166,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-25)
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-25)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-25)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-25)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-07-25)
 [BLEACH: Sennen Kessen-hen - Kashin-tan] — 2026-7播出 (2026-07-24)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-24)
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-24)
