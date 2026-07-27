@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as n,a0 as o}from"./chunks/framework.jwovEGr5.js";const d=JSON.parse('{"title":"首页","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function u(s,a,r,h,k,l){return i(),n("div",null,[...a[0]||(a[0]=[o("",25)])])}const S=e(t,[["render",u]]);export{d as __pageData,S as default};

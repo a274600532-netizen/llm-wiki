@@ -64,6 +64,7 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气45194 (2026-07-27)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气44751 (2026-07-26)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气44083 (2026-07-25)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气43592 (2026-07-24)
@@ -89,6 +90,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-07-27)
+[ONE PIECE] — 87/100 (2026-07-27)
+[Seihantai na Kimi to Boku 2nd Season] — 81/100 (2026-07-27)
+[Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season] — 80/100 (2026-07-27)
+[Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den] — 73/100 (2026-07-27)
 [Yomi no Tsugai] — 78/100 (2026-07-26)
 [BLEACH: Sennen Kessen-hen - Kashin-tan] — None/100 (2026-07-26)
 [Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita] — 71/100 (2026-07-26)
@@ -172,6 +178,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-27)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-27)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-27)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-07-27)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-27)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-26)
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-26)
 [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-26)
