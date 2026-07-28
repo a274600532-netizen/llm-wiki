@@ -64,6 +64,7 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气45547 (2026-07-28)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气45194 (2026-07-27)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气44751 (2026-07-26)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气44083 (2026-07-25)
@@ -90,6 +91,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-07-28)
+[ONE PIECE] — 87/100 (2026-07-28)
+[Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.] — 77/100 (2026-07-28)
+[Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II] — 68/100 (2026-07-28)
+[Grand Blue Season 3] — 82/100 (2026-07-28)
 [Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-07-27)
 [ONE PIECE] — 87/100 (2026-07-27)
 [Seihantai na Kimi to Boku 2nd Season] — 81/100 (2026-07-27)
@@ -178,6 +184,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-28)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-28)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-28)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-07-28)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-28)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-27)
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-27)
 [Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-27)
