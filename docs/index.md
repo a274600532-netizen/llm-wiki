@@ -64,6 +64,7 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气46372 (2026-07-31)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气46131 (2026-07-30)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气45861 (2026-07-29)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气45547 (2026-07-28)
@@ -93,6 +94,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru] — 67/100 (2026-07-31)
+[Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku] — 65/100 (2026-07-31)
+[Yani Neko] — 67/100 (2026-07-31)
+[Super no Ura de Yani Suu Futari] — 82/100 (2026-07-31)
+[Otome Kaijuu Caraméliser] — 76/100 (2026-07-31)
 [Youjo Senki II] — 81/100 (2026-07-30)
 [Katainaka no Ossan, Kensei ni Naru II] — 71/100 (2026-07-30)
 [Dogul Wang] — 67/100 (2026-07-30)
@@ -196,6 +202,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-31)
+[Black Clover 2nd Season] — 2026-10播出 (2026-07-31)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-07-31)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-07-31)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-07-31)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-07-30)
 [Black Clover 2nd Season] — 2026-10播出 (2026-07-30)
 [Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-07-30)
