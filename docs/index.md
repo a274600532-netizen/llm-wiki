@@ -66,6 +66,7 @@
 ## 当前季度
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气47779 (2026-08-02)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气47779 (2026-08-02)
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气47779 (2026-08-02)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气47068 (2026-08-01)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气46372 (2026-07-31)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气46131 (2026-07-30)
@@ -97,6 +98,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Yomi no Tsugai] — 78/100 (2026-08-02)
+[BLEACH: Sennen Kessen-hen - Kashin-tan] — 88/100 (2026-08-02)
+[Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita] — 71/100 (2026-08-02)
+[BLACK TORCH] — 72/100 (2026-08-02)
+[Tenmaku no Jaadugar] — 81/100 (2026-08-02)
 [Yomi no Tsugai] — 78/100 (2026-08-02)
 [BLEACH: Sennen Kessen-hen - Kashin-tan] — 88/100 (2026-08-02)
 [Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita] — 71/100 (2026-08-02)
@@ -220,6 +226,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-02)
+[Black Clover 2nd Season] — 2026-10播出 (2026-08-02)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-02)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-08-02)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-08-02)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-02)
 [Black Clover 2nd Season] — 2026-10播出 (2026-08-02)
 [Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-02)
