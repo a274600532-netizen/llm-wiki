@@ -64,6 +64,10 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49033 (2026-08-05)
+[Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气47981 (2026-08-05)
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气48686 (2026-08-04)
+[Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气47557 (2026-08-04)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气48686 (2026-08-04)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气47557 (2026-08-04)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气47779 (2026-08-02)
@@ -100,6 +104,16 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[ONE PIECE] — 87/100 (2026-08-05)
+[Koukaku Kidoutai: THE GHOST IN THE SHELL] — 76/100 (2026-08-05)
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-08-05)
+[Kimi ga Shinu made Koi wo Shitai] — 75/100 (2026-08-05)
+[Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu] — 64/100 (2026-08-05)
+[Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-08-04)
+[ONE PIECE] — 87/100 (2026-08-04)
+[Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken] — 71/100 (2026-08-04)
+[Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.] — 78/100 (2026-08-04)
+[Grand Blue Season 3] — 81/100 (2026-08-04)
 [Mushoku Tensei III: Isekai Ittara Honki Dasu] — 85/100 (2026-08-04)
 [ONE PIECE] — 87/100 (2026-08-04)
 [Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.] — 78/100 (2026-08-04)
@@ -233,6 +247,16 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-05)
+[Black Clover 2nd Season] — 2026-10播出 (2026-08-05)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-05)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-08-05)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-08-05)
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-04)
+[Black Clover 2nd Season] — 2026-10播出 (2026-08-04)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-04)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-08-04)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-08-04)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-04)
 [Black Clover 2nd Season] — 2026-10播出 (2026-08-04)
 [Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-04)
