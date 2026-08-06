@@ -66,6 +66,8 @@
 ## 当前季度
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49316 (2026-08-06)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气48316 (2026-08-06)
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49316 (2026-08-06)
+[Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气48316 (2026-08-06)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49033 (2026-08-05)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气47981 (2026-08-05)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气48686 (2026-08-04)
@@ -106,6 +108,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Katainaka no Ossan, Kensei ni Naru II] — 71/100 (2026-08-06)
+[Youjo Senki II] — 81/100 (2026-08-06)
+[Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou] — 75/100 (2026-08-06)
+[Dogul Wang] — 67/100 (2026-08-06)
+[Otomege Sekai wa Mob ni Kibishii Sekai desu 2] — 67/100 (2026-08-06)
 [Youjo Senki II] — 81/100 (2026-08-06)
 [Dogul Wang] — 67/100 (2026-08-06)
 [Katainaka no Ossan, Kensei ni Naru II] — 71/100 (2026-08-06)
@@ -254,6 +261,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-06)
+[Black Clover 2nd Season] — 2026-10播出 (2026-08-06)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-06)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-08-06)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-08-06)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-06)
 [Black Clover 2nd Season] — 2026-10播出 (2026-08-06)
 [Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-06)
