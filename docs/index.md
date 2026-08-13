@@ -64,6 +64,8 @@
 
 
 ## 当前季度
+[Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气52088 (2026-08-13)
+[Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 75/100, 人气50018 (2026-08-13)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49316 (2026-08-06)
 [Nijusseiki Denki Mokuroku: Eureka Evrika](/entities/nijusseiki-denki-mokuroku-eureka-evrika) — 76/100, 人气48316 (2026-08-06)
 [Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru](/entities/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-sur) — 67/100, 人气49316 (2026-08-06)
@@ -108,6 +110,11 @@
 - [Youjo Senki II](/entities/youjo-senki-ii) — 81/100, 人气74427 (2026-07-12)
 
 ## 热门趋势
+[Re:Zero kara Hajimeru Isekai Seikatsu 4th Season] — 90/100 (2026-08-13)
+[Dogul Wang] — 66/100 (2026-08-13)
+[Youjo Senki II] — 81/100 (2026-08-13)
+[Katainaka no Ossan, Kensei ni Naru II] — 71/100 (2026-08-13)
+[Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou] — 75/100 (2026-08-13)
 [Katainaka no Ossan, Kensei ni Naru II] — 71/100 (2026-08-06)
 [Youjo Senki II] — 81/100 (2026-08-06)
 [Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou] — 75/100 (2026-08-06)
@@ -261,6 +268,11 @@
 - [Tenmaku no Jaadugar] — 80/100 (2026-07-12)
 
 ## 即将播出
+[Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-13)
+[Black Clover 2nd Season] — 2026-10播出 (2026-08-13)
+[Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-13)
+[Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten] — 2026-8播出 (2026-08-13)
+[Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen] — 2027-None播出 (2026-08-13)
 [Kusuriya no Hitorigoto 3rd Season] — 2026-10播出 (2026-08-06)
 [Black Clover 2nd Season] — 2026-10播出 (2026-08-06)
 [Cyberpunk: Edgerunners 2] — 2026-None播出 (2026-08-06)
